@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5e5d428-ae74-4d5f-ba5d-3b9d6ae03a31" name="Changes" comment="added events">
+    <list default="true" id="f5e5d428-ae74-4d5f-ba5d-3b9d6ae03a31" name="Changes" comment="added gfc stuff">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ERC20_Starter Code.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ERC20_Starter Code.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769900930334</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added gfc stuff">
+      <option name="closed" value="true" />
+      <created>1770410405448</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770410405448</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,7 +129,8 @@
     <MESSAGE value="data" />
     <MESSAGE value="data 2" />
     <MESSAGE value="added events" />
-    <option name="LAST_COMMIT_MESSAGE" value="added events" />
+    <MESSAGE value="added gfc stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="added gfc stuff" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
