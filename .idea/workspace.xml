@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5e5d428-ae74-4d5f-ba5d-3b9d6ae03a31" name="Changes" comment="data 2">
-      <change afterPath="$PROJECT_DIR$/ERC20-stablecoins.zip" afterDir="false" />
+    <list default="true" id="f5e5d428-ae74-4d5f-ba5d-3b9d6ae03a31" name="Changes" comment="added events">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ERC20_Starter Code.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ERC20_Starter Code.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +103,17 @@
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="init 2" />
@@ -110,6 +121,18 @@
     <MESSAGE value="init 4" />
     <MESSAGE value="data" />
     <MESSAGE value="data 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="data 2" />
+    <MESSAGE value="added events" />
+    <option name="LAST_COMMIT_MESSAGE" value="added events" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/ERC20_Starter Code.ipynb</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

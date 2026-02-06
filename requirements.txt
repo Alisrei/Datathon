@@ -1,1 +1,4 @@
+numpy
+pandas
+matplotlib
 ERC20-stablecoins.zip must be in same directory as ERC20_starter code
