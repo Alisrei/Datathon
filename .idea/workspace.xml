@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5e5d428-ae74-4d5f-ba5d-3b9d6ae03a31" name="Changes" comment="added gfc stuff">
+    <list default="true" id="f5e5d428-ae74-4d5f-ba5d-3b9d6ae03a31" name="Changes" comment="fixed bug from csv reading in erc cleaned and merged data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ERC20_Starter Code.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ERC20_Starter Code.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AllPrices_cleaned.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gfc data/AIG.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/gfc data/AIG.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gfc data/C.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/gfc data/C.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gfc data/JPM.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/gfc data/JPM.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gfc data/README.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/gfc data/README.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gfc data/TEDRATE.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/gfc data/TEDRATE.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gfc data/WGS3MO.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/gfc data/WGS3MO.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gfc data/^DJI.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/gfc data/^DJI.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gfc data/^GSPC.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/gfc data/^GSPC.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gfc data/^VIX.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/gfc data/^VIX.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gfc.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +55,11 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -107,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770410405448</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fixed bug from csv reading in erc cleaned and merged data">
+      <option name="closed" value="true" />
+      <created>1770413323001</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770413323001</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,17 +154,7 @@
     <MESSAGE value="data 2" />
     <MESSAGE value="added events" />
     <MESSAGE value="added gfc stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="added gfc stuff" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/ERC20_Starter Code.ipynb</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="fixed bug from csv reading in erc cleaned and merged data" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed bug from csv reading in erc cleaned and merged data" />
   </component>
 </project>
